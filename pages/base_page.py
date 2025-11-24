@@ -14,3 +14,4 @@ class BasePage:
         self.page.click(locator)
 
 
+
